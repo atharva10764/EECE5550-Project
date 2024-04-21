@@ -1,0 +1,2 @@
+m-explore/explore:m-explore/map_merge:rrt_exploration
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/MR/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/MR/catkin_ws/install -G Unix Makefiles
